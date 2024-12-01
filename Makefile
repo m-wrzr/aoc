@@ -1,0 +1,4 @@
+
+
+types:
+	uv run pyright .
